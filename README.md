@@ -7,7 +7,7 @@ Instructions on how to install and set up your project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ivrtop770/otp-yemot.git
+git clone https://github.com/ivrtop770/yemot-otp.git
 
 # Navigate to the project directory
 cd otp-yemot
