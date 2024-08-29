@@ -1,5 +1,4 @@
-# Project Title
-
+# Yemot OTP
 OTP verification through a phone call in the IVR2 system - ימות המשיח.
 
 ## Installation
